@@ -42,7 +42,7 @@
     "gif-encoder": "^0.6.1",
     "gm": "^1.23.1",
     "immutable": "^3.8.2",
-    "lost": "^8.2.1",
+    "lost": "^9.0.0",
     "oauth": "^0.9.15",
     "postcss-import": "^11.1.0",
     "postcss-loader": "^2.1.4",
