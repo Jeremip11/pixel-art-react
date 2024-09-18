@@ -36,7 +36,7 @@
     "box-shadow-pixels": "0.0.3",
     "cookie-parser": "^1.4.3",
     "css-loader": "^0.28.11",
-    "express": "^4.16.3",
+    "express": "^4.20.0",
     "express-session": "^1.15.6",
     "file-loader": "^1.1.11",
     "gif-encoder": "^0.6.1",
