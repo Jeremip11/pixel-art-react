@@ -40,7 +40,7 @@
     "express-session": "^1.15.6",
     "file-loader": "^1.1.11",
     "gif-encoder": "^0.6.1",
-    "gm": "^1.23.1",
+    "gm": "^1.25.1",
     "immutable": "^3.8.2",
     "lost": "^8.2.1",
     "oauth": "^0.9.15",
