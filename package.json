@@ -35,7 +35,7 @@
     "body-parser": "^1.18.2",
     "box-shadow-pixels": "0.0.3",
     "cookie-parser": "^1.4.3",
-    "css-loader": "^0.28.11",
+    "css-loader": "^1.0.0",
     "express": "^4.16.3",
     "express-session": "^1.15.6",
     "file-loader": "^1.1.11",
